@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webbalianik/static/css/main.5f361e03.chunk.css",
+    "main.js": "/webbalianik/static/js/main.ce2386cb.chunk.js",
+    "main.js.map": "/webbalianik/static/js/main.ce2386cb.chunk.js.map",
+    "runtime-main.js": "/webbalianik/static/js/runtime-main.eca560fe.js",
+    "runtime-main.js.map": "/webbalianik/static/js/runtime-main.eca560fe.js.map",
+    "static/css/2.bbd4bc15.chunk.css": "/webbalianik/static/css/2.bbd4bc15.chunk.css",
+    "static/js/2.7a252221.chunk.js": "/webbalianik/static/js/2.7a252221.chunk.js",
+    "static/js/2.7a252221.chunk.js.map": "/webbalianik/static/js/2.7a252221.chunk.js.map",
+    "index.html": "/webbalianik/index.html",
+    "precache-manifest.fecb0f8dbb409c178450d7a9bfde7c88.js": "/webbalianik/precache-manifest.fecb0f8dbb409c178450d7a9bfde7c88.js",
+    "service-worker.js": "/webbalianik/service-worker.js",
+    "static/css/2.bbd4bc15.chunk.css.map": "/webbalianik/static/css/2.bbd4bc15.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/webbalianik/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7a252221.chunk.js.LICENSE.txt": "/webbalianik/static/js/2.7a252221.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/webbalianik/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/webbalianik/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eca560fe.js",
+    "static/css/2.bbd4bc15.chunk.css",
+    "static/js/2.7a252221.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ce2386cb.chunk.js"
+  ]
+}
